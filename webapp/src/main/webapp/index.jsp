@@ -1,3 +1,4 @@
+<body style="background-color:green;">
 <center><form action="action_page.php">
   <div class="container">
     <h1>Saidemy Student Registration!</h1>
