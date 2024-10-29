@@ -1,4 +1,4 @@
-<body style="background-color:yellow;">
+<body style="background-color:gold;">
 <center><form action="action_page.php">
   <div class="container">
     <h1>New Student Registration!</h1>
